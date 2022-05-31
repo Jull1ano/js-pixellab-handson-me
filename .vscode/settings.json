@@ -30,5 +30,5 @@
   },
   "editor.detectIndentation": false,
   "liveServer.settings.ignoreFiles": ["./server/api/persons/models/*.data"],
-  "liveServer.settings.port": 5501
+  "liveServer.settings.port": 5502
 }
